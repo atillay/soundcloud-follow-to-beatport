@@ -1,0 +1,13 @@
+{
+    "name": "alexandre/soundcloud-to-beatport",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Alexandre Tillay",
+            "email": "alex.tillay@gmail.com"
+        }
+    ]
+}

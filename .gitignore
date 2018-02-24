@@ -1,0 +1,5 @@
+.idea/
+vendor/
+export.json
+log.txt
+.env
